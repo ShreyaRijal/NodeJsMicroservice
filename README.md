@@ -1,5 +1,5 @@
 # NodeJsMicroservice
-Technical test completed on 17th May 2020
+Completed on 17th May 2020
 
 ## Prerequisites:
 You need <b>Node.Js</b> installed on your local machine. </br>
